@@ -22,5 +22,5 @@ https://github.com/asrujana/DiabetesPrediction
 https://github.com/asrujana/AtmApplication
 
 
-for more project click more
+for more project 
 https://github.com/asrujana?tab=repositories
