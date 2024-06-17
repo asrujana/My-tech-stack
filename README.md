@@ -24,3 +24,7 @@ https://github.com/asrujana/AtmApplication
 
 for more project 
 https://github.com/asrujana?tab=repositories
+
+
+## Publications 
+### Title "Thoughts into computer action" 
